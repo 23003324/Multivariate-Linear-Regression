@@ -12,7 +12,7 @@ Import pandas as pd.
 Read the csv file.
 
 ### Step3
-Get the value of X and y variables
+Get the value of X and y variables.
 
 ### Step4
 Create the linear regression model and fit.
